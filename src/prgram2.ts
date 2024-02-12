@@ -27,7 +27,7 @@ function main(): void {
         return;
     }
 
-    const result: number | string = calculator(operation, num1, num2);
-    console.log(result);
+    //const result: number | string = calculator(operation, num1, num2);
+   // console.log(result);
 }
 

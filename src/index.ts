@@ -11,14 +11,14 @@ function logObject(user: {name: string, age: number}) {
 
 logObject(user);
 
-class User {
-    name: string = '';
-    age: number = 0;
+//class User {
+  //  name: string = '';
+    //age: number = 0;
 }
 
-let user1 = new User();
-user1.name = 'Juan';
-user1.age = 19;
+//let user1 = new User();
+//user1.name = 'Juan';
+//user1.age = 19;
 
 let user2 = new User();
 user2.name = 'Laura';
